@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ugur Avsar"
+    },
+    {
+      "id": 2,
+      "name": "Zhin Zao"
+    },
+    {
+      "id": 3,
+      "name": "John Timberland"
+    },
+    {
+      "id": 4,
+      "name": "Chloe Henry"
+    },
+    {
+      "id": 5,
+      "name": "Garry Kasparov"
+    }
+  ]
+}
